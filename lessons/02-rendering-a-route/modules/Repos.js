@@ -5,8 +5,6 @@ import NavLink from './NavLink'
 
 export default React.createClass({
   render() {
-    console.log(this.props)
-    
     return (
       <div>
         <h2>Repos</h2>
